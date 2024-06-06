@@ -26,8 +26,8 @@ A function was created that reproduces the sound of musical instruments stored w
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/Wauespter/QR-code-component-solution)
-- Live site URL: [Live site Project](https://wauespter.github.io/QR-code-component-solution/)
+- Solution URL: [Solution URL](https://github.com/Wauespter/MyFirstJavaScript)
+- Live site URL: [Live site Project](https://wauespter.github.io/MyFirstJavaScript/)
 
 ## My process
 
