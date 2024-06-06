@@ -1,6 +1,6 @@
 # MyFirstJavaScript
 
-A function was created that reproduces the sound of musical instruments stored within an [audio element of the HTML code](https://github.com/wauespter), and also that these sounds that were reproduced in the application's graphical interface were controlled by the buttons designed with HTML and CSS.
+A function was created that reproduces the sound of musical instruments stored within an [audio element of the HTML code](https://wauespter.github.io/MyFirstJavaScript/), and also that these sounds that were reproduced in the application's graphical interface were controlled by the buttons designed with HTML and CSS.
 
 ## Index
 
@@ -20,9 +20,7 @@ A function was created that reproduces the sound of musical instruments stored w
 ## Overview
 ### Screenshot
 
-![image](https://github.com/Wauespter/QR-code-component-solution/assets/146996798/c9dd5496-e27c-4bf5-a597-37546b1a8b71)
-
-inserir imagem do projeto
+![image](https://github.com/Wauespter/MyFirstJavaScript/assets/146996798/00096392-bc72-4378-bbd0-8e818e746703)
 
 
 
